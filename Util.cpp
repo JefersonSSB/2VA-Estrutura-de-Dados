@@ -5,5 +5,5 @@ void limparTela()
 
 void limparBuffer()
 {
-setbuf(stdin, NULL);
+	setbuf(stdin, NULL);
 }
